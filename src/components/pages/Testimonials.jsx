@@ -27,7 +27,7 @@ export const Testimonials = () => {
                 <div className='img' data-aos='zoom-out-right'>
                   <img src={val.image} alt='' />
                 </div>
-                <h3 data-aos='zoom-out-left'>{val.name}</h3>
+                <h3 data-aos='zoom-out-left'>Aritra Dhar</h3>
                 <label data-aos='zoom-out'>{val.post}</label>
               </div>
             ))}
